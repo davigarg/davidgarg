@@ -1,135 +1,21 @@
-<!DOCTYPE html>
-<html lang="es">
+<h1 align="center">Hola 👋, soy Davidgarg</h1>
+<h3 align="center">Aprendiendo y creciendo en el mundo de la ciberseguridad. Resuelvo máquinas en TryHackMe y HackTheBox 💻🔐. Nivel medio-alto de inglés 🌍. ¡Siempre en busca de nuevos retos! 💪 </h3>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Ciberseguridad</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-            color: #333;
-        }
 
-        h1,
-        h2 {
-            color: #2c3e50;
-        }
+- 🌱 Actualmente estoy aprendiendo **Máquinas de Pentesting y Respuesta a Incidentes**
+  
+- 📫 Cómo contactarme **dagago05@gmail.com**
+  
+- ⚡ Dato curioso **Me gusta aprender, disciplinado y autodidacta pero con facilidad para el trabajo en equipo**
 
-        h1 {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/davidgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidgarg" height="30" width="40" /></a>
+</p>
 
-        h2 {
-            margin-top: 30px;
-        }
 
-        p {
-            font-size: 16px;
-            line-height: 1.6;
-            margin-bottom: 15px;
-        }
 
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="izquierda"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagabundo" width="40" height="40"/> </a> </p>
 
-        li {
-            margin-bottom: 10px;
-        }
-
-        .badge {
-            font-size: 16px;
-            background-color: #3498db;
-            color: #fff;
-            border-radius: 5px;
-            padding: 6px 12px;
-            margin-right: 8px;
-            display: inline-block;
-        }
-
-        .link {
-            color: #3498db;
-            text-decoration: none;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
-
-        .emoji {
-            font-size: 20px;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="container">
-        <h1><span class="emoji">‍</span> ¡Hola! Soy [Tu Nombre] <span class="emoji">‍</span></h1>
-
-        <p>Soy un apasionado de la <strong>ciberseguridad</strong> y constantemente busco retos para mejorar mis
-            habilidades. He trabajado en diversas plataformas como <strong>TryHackMe</strong> y
-            <strong>HackTheBox</strong> <span class="emoji">️‍♂️</span>, donde he resuelto máquinas y desafíos en
-            temas como:
-        </p>
-
-        <ul>
-            <li><span class="emoji"></span> Explotación de vulnerabilidades</li>
-            <li><span class="emoji"></span> Análisis forense</li>
-            <li><span class="emoji">⚡️</span> Pentesting (Pruebas de penetración)</li>
-        </ul>
-
-        <h2><span class="emoji"></span> Mis habilidades clave:</h2>
-        <ul>
-            <li><span class="emoji"></span> Seguridad en redes</li>
-            <li><span class="emoji"></span> Criptografía y cifrado</li>
-            <li><span class="emoji">️</span> Seguridad en aplicaciones web</li>
-            <li><span class="emoji"></span> Inglés intermedio-alto, lo que me permite acceder a una gran cantidad de
-                recursos globales de ciberseguridad y colaborar en comunidades internacionales <span
-                    class="emoji"></span></li>
-        </ul>
-
-        <h2><span class="emoji"></span> Logros y recursos:</h2>
-        <p>Aquí algunos logros que he obtenido en plataformas como GitHub y más:</p>
-        <ul>
-            <li>
-                <span class="emoji">️</span> <a href="https://dev.to/envoy_/158-badges-for-github-pnk" target="_blank"
-                    class="link">150 Badges para GitHub</a> para demostrar mis logros y habilidades.
-            </li>
-            <li>
-                <span class="emoji">️</span> <a href="https://github.com/tandpfun/skill-icons#readme" target="_blank"
-                    class="link">Iconos de habilidades</a> para mejorar mi perfil y mostrar de forma visual mis
-                competencias.
-            </li>
-            <li>
-                <span class="emoji"></span> <a href="https://gist.github.com/rxaviers/7360908" target="_blank"
-                    class="link">Mis scripts y herramientas de ciberseguridad en GitHub</a>.
-            </li>
-        </ul>
-
-        <h2><span class="emoji"></span> En constante aprendizaje:</h2>
-        <p>Estoy comprometido con el crecimiento profesional, y constantemente participo en retos, cursos y proyectos.
-            Mi objetivo es estar al tanto de las últimas amenazas y vulnerabilidades, y mejorar mis habilidades
-            prácticas. <span class="emoji"></span></p>
-
-        <h3><span class="emoji"></span> Certificados y badges:</h3>
-        <div>
-            <span class="badge"> Pentesting</span>
-            <span class="badge"> Ciberseguridad Avanzada</span>
-            <span class="badge"> HackTheBox</span>
-            <span class="badge"> TryHackMe</span>
-        </div>
-    </div>
-</body>
-
-</html>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidgarg&show_icons=true&locale=en" alt="davidgarg" /></p>
