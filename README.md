@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Davidgarg</h1>
+<h1 align="center">Hola 👋, soy David García</h1>
 <h3 align="center">Aprendiendo y creciendo en el mundo de la ciberseguridad. Resuelvo máquinas en TryHackMe y HackTheBox 💻🔐. Nivel medio-alto de inglés 🌍. ¡Siempre en busca de nuevos retos! 💪 </h3>
 
 
